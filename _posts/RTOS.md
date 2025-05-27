@@ -53,3 +53,5 @@ xQueueSend()	Gửi phần tử vào queue (từ task)
 xQueueReceive()	Nhận phần tử từ queue
 xQueueSendFromISR()	Gửi từ ISR
 xQueueReceiveFromISR()	Nhận từ ISR
+
+//Cố tình để conflict
