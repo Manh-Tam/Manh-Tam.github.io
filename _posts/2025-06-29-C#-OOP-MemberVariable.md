@@ -8,6 +8,7 @@ A member variable (also called a field) is a variable inside of a class, but out
 
 For example, we have a Car class with a field called _model. By convention, we often use a undercore in front of a field name. Ofcourse, you can use any names that you like. We use a private modifier to prevent access from other class, only methods in the Car class can access this variable.
 
+```csharp
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -22,5 +23,7 @@ namespace ClassApp
         
     }
 }
+```
+something something
 
 
